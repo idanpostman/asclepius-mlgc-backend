@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "https://mlgc-deployment-g25epg436a-et.a.run.app",
+ "frontend-service-url": "https://submissionmlgc-wildanfauzan.et.r.appspot.com/",
+ "project-id": "submissionmlgc-wildanfauzan",
+ "bucket-name": "bucket-submissionmglc-wildanfauzan"
+}
